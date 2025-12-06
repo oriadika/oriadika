@@ -1,6 +1,8 @@
 👋 Hi, I'm Ori Adika.
 
-🎓 Software Engineering student at Ben-Gurion University (B.Sc. + M.Sc. Excellence Program).
+🎓 Backend Developer at SAP.
+
+🎓 Software Engineering student at Ben-Gurion University.
 
 🧠 Passionate about backend, low-level systems, and DevOps.
 
@@ -9,5 +11,3 @@
 🚀 Built a multivendor marketplace, a Scheme-to-Assembly compiler, and multithreaded file servers.
 
 📊 Ex-military tech officer turned builder of smart, efficient systems.
-
-📍 Open to 50%+ student positions — ready to grow and make impact.
